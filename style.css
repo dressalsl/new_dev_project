@@ -66,5 +66,15 @@ html, body{
 palavra{
     color: #54D1BB;
 }
+.texto_header{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 50px;
+    /* or 156% */
+    text-align: center;
+    color: #FFFFFF;
+}
 /* --variavel: valor; 
    color : var (--variavel);*/
