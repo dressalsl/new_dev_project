@@ -258,5 +258,31 @@ html, body{
     font-size: 18px;
 }
 
+/* FOOTER */
+.footer{
+    background-color: rgba(62, 59, 59, 0.88);
+    width: 100%;
+}
+
+.icon_github{
+    padding: 0px 80px 0px 180px;
+    margin: 15px 0px 15px 0px;             
+}
+.icon_instagram{
+    padding: 0px 80px 0px 80px;   
+    margin: 15px 0px 15px 0px;            
+}
+.icon_twitter{
+    padding: 0px 80px 0px 80px;     
+    margin: 15px 0px 15px 0px;          
+}
+.icon_linkedin{
+    padding: 0px 80px 0px 80px;     
+    margin: 15px 0px 15px 0px;         
+}
+.icon_vector{
+    padding: 0px 80px 0px 80px;   
+    margin: 15px 0px 15px 0px;       
+}
 /* --variavel: valor; 
    color : var (--variavel);*/
