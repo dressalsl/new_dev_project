@@ -39,16 +39,20 @@ html, body{
     display: inline-flex;
     color: #54D1BB;
     width: 18px;
-    justify-content: flex-end; 
+    justify-content: flex-end;
+     
      
 }
 .navbar-items ul li {
     margin: 5px;
 	padding: 0 10px;
 }
+.navbar_itens_li{
+    padding-left: 100px;
+}
 
 .logo_wd {
-    width: 90px;
+    width: 120px;
     float: left;
 }
 .foto_mulher {
@@ -60,6 +64,8 @@ html, body{
     width: 230px;
     height: 230px;
     border-radius: 100%;
+    transform: rotate(25deg);
+    
 }
 .texto_mulher{
     font-family: Roboto;
@@ -148,6 +154,7 @@ html, body{
     position: relative;
     margin-right: 25%;
     margin-top: 5%;
+    margin-bottom: 7%;
 
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
    -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -238,7 +245,7 @@ html, body{
 .email{
     color: #fff;
     text-align: center;
-    font-size: 16px;
+    font-size: 18px;
 }
 .lets_talk{
     color: #fff;
